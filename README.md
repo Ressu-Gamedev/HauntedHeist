@@ -1,3 +1,3 @@
 # Haunted Heist 
 
-(Ressu Game Jam 2020)
+(2nd Ressu Game Jam 2020)
